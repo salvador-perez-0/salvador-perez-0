@@ -17,13 +17,17 @@
 ![TypeORM](https://img.shields.io/badge/-TypeORM-CB3837?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-
 ## 🛠️ Tecnologías adicionales
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 Mis estadísticas
 
-![Top Langs](https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=tokyonight)
+<div style="display: flex;">
 
-![Salvador's GitHub stats](https://github-readme-stats-phi-flax.vercel.app/api?username=salvador-perez-0&show_icons=true&theme=tokyonight&hide_title=true)
+  <img src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats-phi-flax.vercel.app/api?username=salvador-perez-0&show_icons=true&theme=tokyonight&hide_title=true" />
+
+</div>
+
