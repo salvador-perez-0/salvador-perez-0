@@ -1,8 +1,3 @@
-
-# 👋 ¡Hola! Soy Salvador Pérez
-
-Soy un desarrollador apasionado por crear soluciones eficientes y aprender nuevas tecnologías. Me enfoco en el desarrollo backend y automatización, y también exploro el desarrollo de videojuegos y scripting.
-
 ---
 
 ## 💻 Lenguajes que uso con frecuencia
