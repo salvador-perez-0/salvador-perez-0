@@ -12,7 +12,7 @@
 ![Appium](https://img.shields.io/badge/-Appium-0D0D0D?style=for-the-badge&logo=appium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=black)
 
-## 🗄️ ORMs y Bases de Datos
+## 🗄️ ORMs
 
 ![TypeORM](https://img.shields.io/badge/-TypeORM-CB3837?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
