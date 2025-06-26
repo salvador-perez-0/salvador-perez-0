@@ -24,4 +24,6 @@
 
 ## 📊 Mis estadísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-perez-0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=tokyonight)
+
+![Salvador's GitHub stats](https://github-readme-stats-phi-flax.vercel.app/api?username=salvador-perez-0&show_icons=true&theme=tokyonight&hide_title=true)
