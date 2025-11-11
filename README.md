@@ -24,7 +24,7 @@
 
 <div style="display: flex;">
 
-  <img src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=tokyonight" />
+  <img src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=gruvbox" />
   
   <img src="https://github-readme-stats-phi-flax.vercel.app/api?username=salvador-perez-0&show_icons=true&theme=tokyonight&hide_title=true" />
 
