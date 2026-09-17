@@ -27,11 +27,11 @@
 
 ## 📊 Mis estadísticas
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 10px;">
 
-  <img src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=gruvbox" />
+  <img src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=gruvbox" style="width: 48%; object-fit: contain;" />
   
-  <img src="https://github-readme-stats-phi-flax.vercel.app/api?username=salvador-perez-0&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats-phi-flax.vercel.app/api?username=salvador-perez-0&show_icons=true&theme=tokyonight&hide_title=true" style="width: 48%; object-fit: contain;" />
 
 </div>
 
