@@ -24,11 +24,3 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 Mis estadísticas
-
-<div style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 10px;">
-
-  <img src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs/?username=salvador-perez-0&theme=gruvbox" style="width: 48%; object-fit: contain;" />
-</div>
-
